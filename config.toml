@@ -37,3 +37,5 @@ PygmentsStyle = "friendly"
   description="Support Engineer\n Amazon"
   copyright= "All opinions are my own."
 
+[blackfriday]
+  hrefTargetBlank = true
