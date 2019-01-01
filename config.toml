@@ -5,6 +5,7 @@ title = "Garrett Leland"
 markup = "org"
 PygmentsCodeFences = true
 PygmentsStyle = "friendly"
+hrefTargetBlank = true
 
 
   [[menu.posts]]
@@ -37,5 +38,3 @@ PygmentsStyle = "friendly"
   description="Support Engineer\n Amazon"
   copyright= "All opinions are my own."
 
-[blackfriday]
-  hrefTargetBlank = true
