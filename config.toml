@@ -5,7 +5,6 @@ title = "Garrett Leland"
 markup = "org"
 PygmentsCodeFences = true
 PygmentsStyle = "friendly"
-publishdir = "gleland.github.io"
 
 
   [[menu.posts]]
