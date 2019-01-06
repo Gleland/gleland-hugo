@@ -32,7 +32,7 @@
  */
 
 html {
-  font-family: "Crimson Text", Helvetica, Arial, sans-serif;
+    font-family: 'Crimson Text', serif;
 }
 @media (min-width: 48em) {
   html {
